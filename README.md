@@ -1,5 +1,7 @@
 ## 📊 Projects
 
+<img src="./Screenshots/barchart.png" alt="My chart" width="100">
+
 ### 1. Bar Chart - US GDP Visualization
 ![Bar Chart Preview](./Screenshots/barchart.png)
 
