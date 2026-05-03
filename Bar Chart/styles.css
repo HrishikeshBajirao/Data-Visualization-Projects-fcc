@@ -1,0 +1,40 @@
+#container{
+  width: 900px;
+  height: 550px;
+  border: 1px solid grey;
+  margin: 50px auto;
+  box-shadow: 0 0 15px 0 grey;
+  padding:20px;
+  position:relative;
+}
+
+#title{
+  text-align:center;
+}
+
+svg{
+  margin:10px auto;
+}
+
+.bar:hover{
+  fill:white;
+}
+
+#tooltip{
+  width:120px;
+  height:50px;
+  border:1px solid grey;
+  position:absolute;
+  box-shadow:0 0 5px 0 grey;
+  padding:5px;
+  background-color:lightgrey;
+  pointer-events:none;
+  opacity:0;
+  transition: opacity 0.2s ease;
+}
+#tooltip > p{
+  font-size:16px;
+  color:black;
+  text-align:center;
+  margin:5px 0 0 0;
+}
