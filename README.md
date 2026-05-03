@@ -5,7 +5,7 @@
 
 **Tech Stack:** D3.js, HTML5, CSS3, JavaScript  
 **Description:** Visualizes US GDP data from 1947 to 2015 using D3.js bar chart with tooltip interactions.  
-**Live Demo:** [View Project](https://hrishikeshbajirao.github.io/Data-Visualization-Projects-freecodecamp-certification-/bar-chart/)  
+**Live Demo:** [View Project](https://hrishikeshbajirao.github.io/Data-Visualization-Projects-fcc/Bar%20Chart)  
 **CodePen:** [Original Pen](https://codepen.io/HrishikeshBajirao/pen/myOyzvr)
 
 ---
@@ -15,5 +15,5 @@
 
 **Tech Stack:** D3.js, HTML5, CSS3, JavaScript  
 **Description:** Scatter plot showing cyclist doping allegations with time vs. rank correlation.  
-**Live Demo:** [View Project](https://hrishikeshbajirao.github.io/Data-Visualization-Projects-freecodecamp-certification-/scatterplot/)  
+**Live Demo:** [View Project](https://hrishikeshbajirao.github.io/Data-Visualization-Projects-fcc/ScatterPlot%20Graph)  
 **CodePen:** [Original Pen](https://codepen.io/HrishikeshBajirao/pen/YPpPMeJ)
