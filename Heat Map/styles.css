@@ -1,0 +1,33 @@
+#title, #description{
+  text-align:center;
+  font-family:monospace;
+}
+#description{
+  font-weight:bold;
+  font-size:20px;
+}
+#heatmap{
+  margin-top:0;
+}
+svg{
+  margin-left:100px;
+  margin-top:0;
+  padding-top:0;
+}
+#container{
+  position:relative;
+}
+#tooltip{
+  width:120px;
+  height:auto;
+  background-color:black;
+  opacity:0;
+  color:white;
+  text-align:center;
+  border-radius:7px;
+  padding:4px;
+  position:absolute;
+}
+#tooltip > p{
+  margin:0;
+}
